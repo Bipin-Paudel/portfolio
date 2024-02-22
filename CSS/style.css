@@ -1,0 +1,26 @@
+h1{
+    color:red;
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+    background-color: red;
+    color: black;
+    text-align:left ;
+}
+
+/* 
+types of selector:
+1. tag
+2. id #
+3. class .
+4. group
+5. universal *
+*/
+
+/* 
+backgrounds:
+color 
+
+*/
